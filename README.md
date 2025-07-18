@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=abdulhamidnugroho.abdulhamidnugroho)
-
+![Profile views](https://komarev.com/ghpvc/?username=abdulhamidnugroho&label=Profile%20views&color=0e75b6&style=flat)
